@@ -32,9 +32,6 @@
 - **Autonomous Mobile Robot for Obstacle Avoidance** ([GitHub Repo](https://github.com/jwiekiera/driving-robot))  
 - **Vigenère Cipher – Cryptanalysis & Decryption** ([GitHub Repo](https://github.com/jwiekiera/vigenere))  
 
-## 🌍 Ambitions  
-I aim to bridge AI and research, contributing to groundbreaking advancements in machine learning. My dream is to work in top AI research labs and explore space technologies.
-
 ## 📫 Connect with me:  
 [![GitHub](https://img.shields.io/badge/GitHub-jwiekiera-black?logo=github)](https://github.com/jwiekiera)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Wiekiera-blue?logo=linkedin)](https://www.linkedin.com/in/joanna-wiekiera/)  
