@@ -33,7 +33,6 @@
 - **Vigenère Cipher – Cryptanalysis & Decryption** ([GitHub Repo](https://github.com/jwiekiera/vigenere))  
 
 ## 📫 Connect with me:  
-[![GitHub](https://img.shields.io/badge/GitHub-jwiekiera-black?logo=github)](https://github.com/jwiekiera)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Wiekiera-blue?logo=linkedin)](https://www.linkedin.com/in/joanna-wiekiera/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-jwiekiera-brightgreen?logo=hackerrank)](https://www.hackerrank.com/jwiekiera)  
 
