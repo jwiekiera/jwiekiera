@@ -1,4 +1,4 @@
-# 🚀 Joanna Wiekiera | Machine Learning Engineer & AI Researcher  
+# 🚀 Joanna Wiekiera | Machine Learning Specialist
 
 👋 Hi! I'm a passionate AI engineer driven by solving complex data challenges. I specialize in **anomaly detection, continual learning, and deep learning**, with experience in **satellite data analysis, quantum computing, and AI in education**. My goal is to contribute to cutting-edge AI research and drive technological advancements.  
 
